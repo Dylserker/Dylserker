@@ -4,7 +4,10 @@
 
 ---
 
+![Separator](assets/separator.png)
+
 ## 🌍 À propos de moi
+![About Me Icon](https://img.icons8.com/color/48/000000/about.png)  
 Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **CODA**, passionné par le développement web et mobile. Mon travail s’inspire souvent des univers immersifs qui me fascinent, comme ceux d’**Ankama**, **Elden Ring**, ou encore **Warframe**. J’aime relever des défis techniques et concevoir des projets qui allient esthétique et performance.
 
 ---
@@ -15,6 +18,8 @@ Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **C
 - **Esprit collaboratif :** Habitué à travailler en équipe, je suis à l’écoute et toujours prêt à apprendre.
 
 ---
+
+![Separator](assets/separator.png)
 
 ## 🛠️ Mes compétences :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,25 +33,49 @@ Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **C
 
 ## 📈 Mon activité GitHub :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylserker&show_icons=true&theme=radical)
+![Dynamique Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dylserker&theme=radical)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylserker&layout=compact&theme=radical)
 
 ---
 
 ## 🎯 Mes projets récents :
-- **[Waven Build Manager](#)** : Une application web pour générer et partager des builds personnalisés.
-- **[Exilium Carnage](#)** : Un site communautaire pour gérer les membres et les événements d’un clan.
-- **[Focus Carot](#)** : Une application mobile pour organiser les tâches et gagner de l’XP.
+
+### **[Waven Build Manager](#)**
+![Waven Build Manager](https://via.placeholder.com/400x200?text=Waven+Build+Manager)  
+Une application web pour générer et partager des builds personnalisés.
+
+---
+
+### **[Exilium Carnage](#)**
+![Exilium Carnage](https://via.placeholder.com/400x200?text=Exilium+Carnage)  
+Un site communautaire pour gérer les membres et les événements d’un clan.
+
+---
+
+### **[Focus Carot](#)**
+![Focus Carot](https://via.placeholder.com/400x200?text=Focus+Carot)  
+Une application mobile pour organiser les tâches et gagner de l’XP.
 
 ---
 
 ## 🌟 Ce qui me motive :
+![Motivation Icon](https://img.icons8.com/emoji/48/000000/star-emoji.png)  
 Je suis passionné par les univers immersifs et leur capacité à captiver les utilisateurs. Qu’il s’agisse de la stratégie d’un jeu comme **Warframe**, de la profondeur narrative d’**Elden Ring**, ou de la richesse visuelle d’**Ankama**, ces mondes m’inspirent à créer des expériences numériques qui combinent esthétique et interactivité.
 
 ---
 
 ## 💬 Restons en contact :
-- **Email :** dylan.levant@coda-student.school 
-- **LinkedIn :** [Dylan Levant](https://www.linkedin.com/in/dylan-levant/)
+![Email Icon](https://img.icons8.com/color/48/000000/email.png) **Email :** dylan.levant@coda-student.school  
+![LinkedIn Icon](https://img.icons8.com/color/48/000000/linkedin.png) **LinkedIn :** [Dylan Levant](https://www.linkedin.com/in/dylan-levant/)
+
+---
+
+![Separator](assets/separator.png)
+
+## 🌌 Bonus : Mes inspirations
+![Warframe](https://img.shields.io/badge/Warframe-Fan%20-%23000000?style=for-the-badge&logo=warframe&logoColor=white)
+![Elden Ring](https://img.shields.io/badge/Elden%20Ring-Enthusiast-%233D2B1F?style=for-the-badge&logo=elden-ring&logoColor=white)
+![Ankama](https://img.shields.io/badge/Ankama-Creative%20Spirit-%23FF6A00?style=for-the-badge&logo=dofus&logoColor=white)
 
 ---
 
