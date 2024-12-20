@@ -34,8 +34,8 @@ Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **C
 
 ## 🎯 Mes projets récents :
 - **[Waven Build Manager](#)** : Une application web pour générer et partager des builds personnalisés.
-- **[Clan Warframe](#)** : Un site communautaire pour gérer les membres et les événements d’un clan.
-- **[App TDAH](#)** : Une application mobile pour organiser les tâches et gagner de l’XP.
+- **[Exilium Carnage](#)** : Un site communautaire pour gérer les membres et les événements d’un clan.
+- **[Focus Carot](#)** : Une application mobile pour organiser les tâches et gagner de l’XP.
 
 ---
 
