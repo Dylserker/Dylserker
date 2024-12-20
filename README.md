@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 🌟
 
-![Ma Bannière](assets/banner.png)
+![Ma Bannière](assets/banner.jpg)
 
 ---
 
