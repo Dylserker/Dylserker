@@ -63,6 +63,12 @@ Je suis passionné par les univers immersifs et leur capacité à captiver les u
 
 ---
 
+## 🎮 Contributions en mode Tetris !
+Voici une version amusante et dynamique de mes contributions en **Tetris** !  
+[![Tetris Contributions](https://github.com/Dylserker/Dylserker/raw/main/assets/tetris.gif)](https://github.com/Dylserker)
+
+> **Astuce** : Cette animation est générée par [GitHub Tetris](https://github.com/sushidreams/github-tetris), un outil qui transforme ton graphique de contributions en jeu de Tetris ! 🕹️
+
 
 ## 🌌 Bonus : Mes inspirations
 ![Warframe](https://img.shields.io/badge/Warframe-Fan%20-%23000000?style=for-the-badge&logo=warframe&logoColor=white)
