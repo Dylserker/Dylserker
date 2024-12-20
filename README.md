@@ -23,5 +23,5 @@ Salut, moi c'est Dylan ! Fan de **Dofus**, **Wakfu**, et maintenant **Waven**, j
 
 ---
 ### 📊 Mon activité :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DylanLevant&show_icons=true&theme=gruvbox)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanLevant&layout=compact&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylserker&show_icons=true&theme=gruvbox)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylserker&layout=compact&theme=gruvbox)
