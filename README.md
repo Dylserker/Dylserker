@@ -51,19 +51,16 @@
 
 ### **[Waven Build Manager](#)**  
 > Une application web pour générer et partager des builds personnalisés.  
-![Waven Build Manager](https://via.placeholder.com/600x200?text=Waven+Build+Manager)
 
 ---
 
 ### **[Exilium Carnage](#)**  
 > Un site communautaire pour gérer les membres et les événements d’un clan.  
-![Exilium Carnage](https://via.placeholder.com/600x200?text=Exilium+Carnage)
 
 ---
 
 ### **[Focus Carot](#)**  
 > Une application mobile pour organiser les tâches et gagner de l’XP.  
-![Focus Carot](https://via.placeholder.com/600x200?text=Focus+Carot)
 
 ---
 
