@@ -46,14 +46,6 @@
 
 ---
 
-## 🎮 Contributions en mode Gaming !
-<div align="center">
-  <img src="https://github.com/Dylserker/Dylserker/raw/main/assets/tetris.gif" alt="Tetris Contributions" />
-  <p><em>Mes contributions forment un Tetris ! 🕹️</em></p>
-</div>
-
----
-
 ## 🎯 Mes projets récents :
 
 ### **[Waven Build Manager](#)**  
