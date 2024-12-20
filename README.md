@@ -17,7 +17,6 @@ Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **C
 
 ---
 
-![Separator](assets/separator.png)
 
 ## 🛠️ Mes compétences :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
