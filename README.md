@@ -63,7 +63,6 @@ Je suis passionné par les univers immersifs et leur capacité à captiver les u
 
 ---
 
-![Separator](assets/separator.png)
 
 ## 🌌 Bonus : Mes inspirations
 ![Warframe](https://img.shields.io/badge/Warframe-Fan%20-%23000000?style=for-the-badge&logo=warframe&logoColor=white)
