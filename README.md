@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil ! 🌟
 
-![Banner](https://via.placeholder.com/800x200?text=Bienvenue+dans+le+monde+d%27Ankama) <!-- Remplace par une vraie bannière Ankama -->
+![Banner](assets/banner.jpg) <!-- Remplace par une vraie bannière Ankama -->
 
 ## 🎮 Passionné par l'univers Ankama
 Salut, moi c'est Dylan ! Fan de **Dofus**, **Wakfu**, et maintenant **Waven**, je suis développeur full stack en formation chez CODA. 🌍 J'aime créer des projets inspirés de mes passions, et Ankama est une source d'inspiration infinie pour moi.
