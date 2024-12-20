@@ -4,69 +4,91 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=00FF00&center=true&vCenter=true&width=800&lines=Bienvenue+dans+mon+univers+de+d%C3%A9veloppement!;Passionné+par+les+mondes+immersifs;Développeur+Full+Stack+en+formation" alt="Typing Animation">
+</div>
+
+---
 
 ## 🌍 À propos de moi 
-Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **CODA**, passionné par le développement web et mobile. Mon travail s’inspire souvent des univers immersifs qui me fascinent, comme ceux d’**Ankama**, **Elden Ring**, ou encore **Warframe**. J’aime relever des défis techniques et concevoir des projets qui allient esthétique et performance.
+🎮 Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **CODA**, passionné par le développement web et mobile.  
+🌌 Mon travail s’inspire souvent des univers immersifs qui me fascinent, comme ceux d’**Ankama**, **Elden Ring**, ou encore **Warframe**.  
+🚀 J’aime relever des défis techniques et concevoir des projets qui allient esthétique et performance.
 
 ---
 
 ## 💼 Ce que je peux apporter :
-- **Créativité et immersion :** Inspiré par des univers riches, je conçois des projets captivants et intuitifs.
-- **Polyvalence technique :** Une maîtrise des outils modernes pour le développement web et mobile.
-- **Esprit collaboratif :** Habitué à travailler en équipe, je suis à l’écoute et toujours prêt à apprendre.
+- 🎨 **Créativité et immersion :** Inspiré par des univers riches, je conçois des projets captivants et intuitifs.
+- 🛠️ **Polyvalence technique :** Une maîtrise des outils modernes pour le développement web et mobile.
+- 🤝 **Esprit collaboratif :** Habitué à travailler en équipe, je suis à l’écoute et toujours prêt à apprendre.
 
 ---
 
-
 ## 🛠️ Mes compétences :
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,postgresql" alt="Compétences techniques" />
+</div>
 
 ---
 
 ## 📈 Mon activité GitHub :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylserker&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylserker&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dylserker&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylserker&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</div>
+
+---
+
+## 🎮 Contributions en mode Gaming !
+<div align="center">
+  <img src="https://github.com/Dylserker/Dylserker/raw/main/assets/tetris.gif" alt="Tetris Contributions" />
+  <p><em>Mes contributions forment un Tetris ! 🕹️</em></p>
+</div>
 
 ---
 
 ## 🎯 Mes projets récents :
 
 ### **[Waven Build Manager](#)**  
-Une application web pour générer et partager des builds personnalisés.
+> Une application web pour générer et partager des builds personnalisés.  
+![Waven Build Manager](https://via.placeholder.com/600x200?text=Waven+Build+Manager)
 
 ---
 
-### **[Exilium Carnage](#)**
-Un site communautaire pour gérer les membres et les événements d’un clan.
+### **[Exilium Carnage](#)**  
+> Un site communautaire pour gérer les membres et les événements d’un clan.  
+![Exilium Carnage](https://via.placeholder.com/600x200?text=Exilium+Carnage)
 
 ---
 
-### **[Focus Carot](#)** 
-Une application mobile pour organiser les tâches et gagner de l’XP.
+### **[Focus Carot](#)**  
+> Une application mobile pour organiser les tâches et gagner de l’XP.  
+![Focus Carot](https://via.placeholder.com/600x200?text=Focus+Carot)
 
 ---
 
 ## 🌟 Ce qui me motive :
-![Motivation Icon](https://img.icons8.com/emoji/48/000000/star-emoji.png)  
-Je suis passionné par les univers immersifs et leur capacité à captiver les utilisateurs. Qu’il s’agisse de la stratégie d’un jeu comme **Warframe**, de la profondeur narrative d’**Elden Ring**, ou de la richesse visuelle d’**Ankama**, ces mondes m’inspirent à créer des expériences numériques qui combinent esthétique et interactivité.
+> Qu’il s’agisse de la stratégie d’un jeu comme **Warframe**, de la profondeur narrative d’**Elden Ring**, ou de la richesse visuelle d’**Ankama**, je m’efforce de recréer cette magie dans mes projets.
 
 ---
 
 ## 💬 Restons en contact :
-![Email Icon](https://img.icons8.com/color/48/000000/email.png) **Email :** dylan.levant@coda-student.school  
-![LinkedIn Icon](https://img.icons8.com/color/48/000000/linkedin.png) **LinkedIn :** [Dylan Levant](https://www.linkedin.com/in/dylan-levant/)
+<div align="center">
+  <a href="mailto:dylan.levant@coda-student.school"><img src="https://img.shields.io/badge/Email-Dylan%20Levant-00C853?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dylan-levant/"><img src="https://img.shields.io/badge/LinkedIn-Dylan%20Levant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 ---
 
 ## 🌌 Bonus : Mes inspirations
-![Warframe](https://img.shields.io/badge/Warframe-Fan%20-%23000000?style=for-the-badge&logo=warframe&logoColor=white)
-![Elden Ring](https://img.shields.io/badge/Elden%20Ring-Enthusiast-%233D2B1F?style=for-the-badge&logo=elden-ring&logoColor=white)
-![Ankama](https://img.shields.io/badge/Ankama-Creative%20Spirit-%23FF6A00?style=for-the-badge&logo=dofus&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Warframe-Fan%20-%23000000?style=for-the-badge&logo=warframe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elden%20Ring-Enthusiast-%233D2B1F?style=for-the-badge&logo=elden-ring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ankama-Creative%20Spirit-%23FF6A00?style=for-the-badge&logo=dofus&logoColor=white" />
+</div>
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=FFD700&center=true&vCenter=true&width=800&lines=Merci+d'avoir+visité+mon+profil!;À+bientôt+dans+mon+univers!;🚀" alt="Typing Animation">
+</div>
