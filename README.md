@@ -4,10 +4,8 @@
 
 ---
 
-![Separator](assets/separator.png)
 
-## 🌍 À propos de moi
-![About Me Icon](https://img.icons8.com/color/48/000000/about.png)  
+## 🌍 À propos de moi 
 Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **CODA**, passionné par le développement web et mobile. Mon travail s’inspire souvent des univers immersifs qui me fascinent, comme ceux d’**Ankama**, **Elden Ring**, ou encore **Warframe**. J’aime relever des défis techniques et concevoir des projets qui allient esthétique et performance.
 
 ---
@@ -33,27 +31,23 @@ Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **C
 
 ## 📈 Mon activité GitHub :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylserker&show_icons=true&theme=radical)
-![Dynamique Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dylserker&theme=radical)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylserker&layout=compact&theme=radical)
 
 ---
 
 ## 🎯 Mes projets récents :
 
-### **[Waven Build Manager](#)**
-![Waven Build Manager](https://via.placeholder.com/400x200?text=Waven+Build+Manager)  
+### **[Waven Build Manager](#)**  
 Une application web pour générer et partager des builds personnalisés.
 
 ---
 
 ### **[Exilium Carnage](#)**
-![Exilium Carnage](https://via.placeholder.com/400x200?text=Exilium+Carnage)  
 Un site communautaire pour gérer les membres et les événements d’un clan.
 
 ---
 
-### **[Focus Carot](#)**
-![Focus Carot](https://via.placeholder.com/400x200?text=Focus+Carot)  
+### **[Focus Carot](#)** 
 Une application mobile pour organiser les tâches et gagner de l’XP.
 
 ---
