@@ -38,13 +38,6 @@
 
 ---
 
-## 🎮 Jeu Tetris !
-<div align="center">
-  <iframe src="https://tetris.com/play-tetris" width="320" height="640" frameborder="0" scrolling="no"></iframe>
-</div>
-
----
-
 ## 📈 Mon activité GitHub :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dylserker&show_icons=true&theme=radical" alt="GitHub Stats" />
