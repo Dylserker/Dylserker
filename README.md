@@ -1,18 +1,18 @@
 # Bienvenue sur mon profil GitHub ! 🌟
 
-![Ma Bannière](assets/banner.jpg)
+![Ma Bannière](https://lien-vers-ta-banniere.com/banner.png)
 
 ---
 
 ## 🌍 À propos de moi
-Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **CODA**, passionné par le développement web et les univers créatifs comme celui d'**Ankama**. J'aime transformer mes idées en projets concrets, que ce soit pour des applications web, mobiles ou des sites interactifs.
+Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **CODA**, passionné par le développement web et mobile. Mon travail s’inspire souvent des univers immersifs qui me fascinent, comme ceux d’**Ankama**, **Elden Ring**, ou encore **Warframe**. J’aime relever des défis techniques et concevoir des projets qui allient esthétique et performance.
 
 ---
 
 ## 💼 Ce que je peux apporter :
-- **Créativité :** Inspiré par des univers riches comme ceux d'Ankama, je conçois des interfaces et des projets qui captivent les utilisateurs.
-- **Compétences techniques :** Une maîtrise des technologies modernes pour le développement web et mobile.
-- **Collaboration :** J'apprécie le travail en équipe et suis toujours prêt à apprendre des autres pour atteindre des objectifs communs.
+- **Créativité et immersion :** Inspiré par des univers riches, je conçois des projets captivants et intuitifs.
+- **Polyvalence technique :** Une maîtrise des outils modernes pour le développement web et mobile.
+- **Esprit collaboratif :** Habitué à travailler en équipe, je suis à l’écoute et toujours prêt à apprendre.
 
 ---
 
@@ -22,6 +22,7 @@ Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **C
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -39,12 +40,14 @@ Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **C
 ---
 
 ## 🌟 Ce qui me motive :
-En tant que développeur, je suis passionné par la création d'expériences utilisateur immersives. Mon inspiration vient souvent de mes passions, comme les jeux vidéo et les univers narratifs. **L'univers d'Ankama**, avec sa richesse visuelle et son gameplay innovant, a influencé ma manière de penser la conception et l'interaction.
+Je suis passionné par les univers immersifs et leur capacité à captiver les utilisateurs. Qu’il s’agisse de la stratégie d’un jeu comme **Warframe**, de la profondeur narrative d’**Elden Ring**, ou de la richesse visuelle d’**Ankama**, ces mondes m’inspirent à créer des expériences numériques qui combinent esthétique et interactivité.
 
 ---
 
 ## 💬 Restons en contact :
 - **Email :** dylan.levant@coda-student.school 
-- **LinkedIn :** [Dylan Levant](https://linkedin.com/in/dylanlevant)  
+- **LinkedIn :** [Dylan Levant]([https://www.linkedin.com/in/dylan-levant/])
 
 ---
+
+![Illustration](https://via.placeholder.com/600x200?text=Explore+Create+Inspire)
