@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 🌟
 
-![Ma Bannière](https://lien-vers-ta-banniere.com/banner.png)
+![Ma Bannière](https://lien-vers-ta-banniere.com/banner.jpg)
 
 ---
 
@@ -46,8 +46,7 @@ Je suis passionné par les univers immersifs et leur capacité à captiver les u
 
 ## 💬 Restons en contact :
 - **Email :** dylan.levant@coda-student.school 
-- **LinkedIn :** [Dylan Levant]([https://www.linkedin.com/in/dylan-levant/])
+- **LinkedIn :** [Dylan Levant](https://www.linkedin.com/in/dylan-levant/)
 
 ---
 
-![Illustration](https://via.placeholder.com/600x200?text=Explore+Create+Inspire)
