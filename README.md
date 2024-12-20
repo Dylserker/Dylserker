@@ -24,6 +24,13 @@
 
 ---
 
+## 🎯 Mes objectifs actuels :
+- Apprendre de nouvelles technologies comme **React Native** et **Node.js**.
+- Participer à des projets open-source pour améliorer mes compétences en collaboration.
+- Créer des applications innovantes et immersives, inspirées par les univers de jeux vidéo.
+
+---
+
 ## 🛠️ Mes compétences :
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,postgresql" alt="Compétences techniques" />
