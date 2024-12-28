@@ -1,4 +1,4 @@
-# Bienvenue sur mon univers krosmique ! 🌟
+# Entre dans mon univers krosmique ! 🌟
 
 ![Ma Bannière](assets/banner.jpg)
 
