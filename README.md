@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub ! 🌟
+# Bienvenue sur mon univers krosmique ! 🌟
 
 ![Ma Bannière](assets/banner.jpg)
 
