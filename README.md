@@ -11,9 +11,9 @@
 ---
 
 ## 🌍 À propos de moi 
-🎮 Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **CODA**, passionné par le développement web et mobile.  
-🌌 Mon travail s’inspire souvent des univers immersifs qui me fascinent, comme ceux d’**Ankama**, **Elden Ring**, ou encore **Warframe**.  
-🚀 J’aime relever des défis techniques et concevoir des projets qui allient esthétique et performance.
+- 🎮 Je m'appelle **Dylan Levant**, développeur **full stack** en formation chez **CODA**, passionné par le développement web et mobile.  
+- 🌌 Mon travail s’inspire souvent des univers immersifs qui me fascinent, comme ceux d’**Ankama**, **Elden Ring**, ou encore **Warframe**.  
+- 🚀 J’aime relever des défis techniques et concevoir des projets qui allient esthétique et performance.
 
 ---
 
