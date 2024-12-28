@@ -5,11 +5,7 @@
 ---
 
 <div align="center">
-  <div style="border-radius: 15px; overflow: hidden; border: 2px solid #00FF00; display: inline-block;">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=00FF00&center=true&vCenter=true&width=800&lines=Bienvenue+dans+mon+univers+de+d%C3%A9veloppement!;Passionné+par+les+mondes+immersifs;Développeur+Full+Stack+en+formation" 
-      alt="Typing Animation">
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=00FF00&center=true&vCenter=true&width=800&lines=Bienvenue+dans+mon+univers+de+d%C3%A9veloppement!;Passionné+par+les+mondes+immersifs;Développeur+Full+Stack+en+formation" alt="Typing Animation">
 </div>
 
 ---
