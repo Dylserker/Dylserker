@@ -18,9 +18,31 @@
 ---
 
 ## 💼 Ce que je peux apporter :
-- 🎨 **Créativité et immersion :** Inspiré par des univers riches, je conçois des projets captivants et intuitifs.
-- 🛠️ **Polyvalence technique :** Une maîtrise des outils modernes pour le développement web et mobile.
-- 🤝 **Esprit collaboratif :** Habitué à travailler en équipe, je suis à l’écoute et toujours prêt à apprendre.
+|
+ Compétence 
+|
+ Description 
+|
+|
+------------
+|
+-------------
+|
+|
+ 🎨 Créativité et immersion 
+|
+ Inspiré par des univers riches, je conçois des projets captivants et intuitifs. 
+|
+|
+ 🛠️ Polyvalence technique 
+|
+ Une maîtrise des outils modernes pour le développement web et mobile. 
+|
+|
+ 🤝 Esprit collaboratif 
+|
+ Habitué à travailler en équipe, je suis à l’écoute et toujours prêt à apprendre. 
+|
 
 ---
 
@@ -48,18 +70,59 @@
 
 ## 🎯 Mes projets récents :
 
-### **[Waven Build Manager](#)**  
-> Une application web pour générer et partager des builds personnalisés.  
-
----
-
-### **[Exilium Carnage](#)**  
-> Un site communautaire pour gérer les membres et les événements d’un clan.  
-
----
-
-### **[Focus Carot](#)**  
-> Une application mobile pour organiser les tâches et gagner de l’XP.  
+|
+ Projet 
+|
+ Description 
+|
+ Lien 
+|
+|
+--------
+|
+-------------
+|
+------
+|
+|
+**
+Waven Build Manager
+**
+|
+ Une application web pour générer et partager des builds personnalisés. 
+|
+[
+Voir le projet
+](
+#
+)
+|
+|
+**
+Exilium Carnage
+**
+|
+ Un site communautaire pour gérer les membres et les événements d’un clan. 
+|
+[
+Voir le projet
+](
+#
+)
+|
+|
+**
+Focus Carot
+**
+|
+ Une application mobile pour organiser les tâches et gagner de l’XP. 
+|
+[
+Voir le projet
+](
+#
+)
+|
 
 ---
 
@@ -71,7 +134,7 @@
 ## 💬 Restons en contact :
 <div align="center">
   <a href="mailto:dylan.levant@coda-student.school"><img src="https://img.shields.io/badge/Email-Dylan%20Levant-00C853?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dylan-levant/"><img src="https://img.shields.io/badge/LinkedIn-Dylan%20Levant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/dylan-levant/"><img src="https://img.shields.io/badge/LinkedIn-Dylan%20Levant-0A66C2?style=for-the-badge&logo=linkedin&logoColor =white"></a>
 </div>
 
 ---
