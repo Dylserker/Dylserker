@@ -46,19 +46,6 @@
 
 ---
 
-## 🐍 Mon serpent des contributions :
-<div align="center">
-  <svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
-    <rect width="200" height="50" fill="#f0f0f0" />
-    <path d="M0 25 Q 50 0, 100 25 T 200 25" fill="none" stroke="#4CAF50" stroke-width="10" />
-    <circle cx="0" cy="25" r="5" fill="#4CAF50" />
-    <circle cx="200" cy="25" r="5" fill="#4CAF50" />
-  </svg>
-  <p>220 contributions dans la dernière année</p>
-</div>
-
----
-
 ## 🎯 Mes projets récents :
 
 ### **[Waven Build Manager](#)**  
