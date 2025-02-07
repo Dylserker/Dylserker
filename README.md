@@ -33,7 +33,7 @@
 
 ## 🛠️ Mes compétences :
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,postgresql" alt="Compétences techniques" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,postgresql,nodejs,py,react" alt="Compétences techniques" />
 </div>
 
 ---
