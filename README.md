@@ -40,8 +40,8 @@
 
 ## 📈 Mon activité GitHub :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dylserker&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylserker&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dylserker&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylserker&layout=donut-vertical&theme=dracula" alt="Langages les plus utilisés" />
 </div>
 
 ---
