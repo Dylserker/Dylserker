@@ -62,17 +62,18 @@
 ## 🎯 Mes projets récents :
 
 ### **[Waven Build Manager](#)**  
-> Une application web pour générer et partager des builds personnalisés.  
+> Une application web pour générer et partager des builds personnalisés.
 
 ---
 
-### **[Exilium Carnage](#)**  
+### **[Exilium Carnage Warframe](#)**  
 > Un site communautaire pour gérer les membres et les événements d’un clan.  
 
 ---
 
 ### **[Focus Carot](#)**  
-> Une application mobile pour organiser les tâches et gagner de l’XP.  
+> Une application mobile pour organiser les tâches et gagner de l’XP.
+... Application en cours de développement ...  
 
 ---
 
