@@ -84,9 +84,10 @@
 
 ## 💬 Restons en contact :
 <div align="center">
-  <a href="mailto:dylan.levant@coda-student.school"><img src="https://img.shields.io/badge/Email-Dylan%20Levant-00C853?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dylan-levant/"><img src="https://img.shields.io/badge/LinkedIn-Dylan%20Levant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="mailto:dylan.levant@coda-student.school"><img src="https://img.shields.io/badge/Email-Dylan%20Levant-00C853?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/dylan-levant/"><img src="https://img.shields.io/badge/LinkedIn-Dylan%20Levant-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
+
 
 ---
 
