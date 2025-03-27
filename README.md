@@ -92,10 +92,11 @@
 
 ## 🌌 Bonus : Mes inspirations
 <div align="center">
-  <img src="https://img.shields.io/badge/Warframe-Fan-%23000000?style=for-the-badge&logo=warframe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elden%20Ring-Enthusiast-%233D2B1F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ankama-Creative%20Spirit-%23FF6A00?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=warframe&label=Warframe%20Fan&color=000000&style=flat" alt="warframe" />
+  <img src="https://komarev.com/ghpvc/?username=eldenring&label=Elden%20Ring%20Enthusiast&color=3D2B1F&style=flat" alt="eldenring" />
+  <img src="https://komarev.com/ghpvc/?username=ankama&label=Ankama%20Creative%20Spirit&color=FF6A00&style=flat" alt="ankama" />
 </div>
+
 
 
 
