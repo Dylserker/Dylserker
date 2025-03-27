@@ -92,9 +92,9 @@
 
 ## 🌌 Bonus : Mes inspirations
 <div align="center">
-  <img src="https://img.shields.io/badge/Warframe-Fan-%23000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elden%20Ring-Enthusiast-%233D2B1F?style=for-the-badge&logo=bandcamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ankama-Creative%20Spirit-%23FF6A00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Warframe-Fan-%23000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Elden%20Ring-Enthusiast-%233D2B1F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ankama-Creative%20Spirit-%23FF6A00?style=for-the-badge" />
 </div>
 
 
