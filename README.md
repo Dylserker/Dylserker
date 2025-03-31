@@ -61,8 +61,8 @@
 
 ## 🎯 Mes projets récents :
 
-### **[Waven Build Manager](#)**  
-> Une application web pour générer et partager des builds personnalisés.
+### **[My Portfolio](#)**  
+> Mon portfolio en React.
 
 ---
 
