@@ -1,4 +1,4 @@
-# Entre dans mon univers krosmique ! 🌟
+<h1 align="center">Entre dans mon univers krosmique ! 🌟</h1>
 
 <p align="center">
   <img src="assets/DofusZaap.gif" alt="Ma Bannière" />
