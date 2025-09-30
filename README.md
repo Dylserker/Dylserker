@@ -1,6 +1,6 @@
 # Entre dans mon univers krosmique ! 🌟
 
-![Ma Bannière](assets/banner.jpg)
+![Ma Bannière](assets/DofusZaap.gif)
 
 ---
 
